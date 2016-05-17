@@ -2,7 +2,7 @@
 
 use the following `.htaccess`, borrowed from symfony repo:
 
-```
+```apacheConf
 # Use the front controller as index file. It serves as fallback solution when
 # every other rewrite/redirect fails (e.g. in an aliased environment without
 # mod_rewrite). Additionally, this reduces the matching process for the
