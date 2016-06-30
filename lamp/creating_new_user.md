@@ -69,13 +69,6 @@ ECDSA key fingerprint is fd:fd:d4:f9:77:fe:73:84:e1:55:00:ad:d6:6d:22:fe.
 Are you sure you want to continue connecting (yes/no)? yes
 ```
 
-if you wan't to remove the password authentication, just add the following to the sshd config on the server `/etc/ssh/sshd_config`.  
-
-```
-PasswordAuthentication no
-```
-
-
 @reference:  
 
 * [Initial Server Setup with Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04)   
