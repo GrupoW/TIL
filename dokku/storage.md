@@ -18,4 +18,6 @@ dokku storage:mount app-name /var/lib/dokku/data/storage:/app/storage
 you must append the "/app" path to the container directory.!!!  
 the second path is relative to the root path, not the application working directory.
 
-@reference: [dokku storage](https://github.com/dokku/dokku/issues/2284)
+@reference:   
+[dokku storage](https://github.com/dokku/dokku/issues/2284)  
+[How to persist folders and files with dokku and docker-options](http://maximilianschmitt.me/posts/persist-folders-files-dokku-docker-options/)
