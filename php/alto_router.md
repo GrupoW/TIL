@@ -1,4 +1,4 @@
-##How to use [AltoRouter](http://altorouter.com) for php
+## How to use [AltoRouter](http://altorouter.com) for php
 
 project structure:
 
