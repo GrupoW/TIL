@@ -1,6 +1,6 @@
-##How to deploy a PHP aplication to dokku with nested document root:
+## How to deploy a PHP aplication to dokku with nested document root:
 
-####project structure:
+#### project structure:
 
 ```
 ├── Procfile
@@ -12,7 +12,7 @@
 ```
 
 
-####composer.json:
+#### composer.json:
 
 ```json
 {
@@ -24,12 +24,12 @@
 }
 ```
 
-####Procfile:  
+#### Procfile:  
 ```
 web: vendor/bin/heroku-php-apache2 public/
 ```
 
-####index.php:  
+#### index.php:  
 
 ```php
 <?php
