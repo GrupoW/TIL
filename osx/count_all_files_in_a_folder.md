@@ -4,7 +4,7 @@
 
 
 
-##How to count of all files in a folder (including in subfolders)
+## How to count of all files in a folder (including in subfolders)
 
 run the following command:
 
