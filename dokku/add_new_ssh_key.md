@@ -1,4 +1,4 @@
-##How to add new ssk key:
+## How to add new ssk key:
 
 run the following command as root:
 

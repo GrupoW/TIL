@@ -1,4 +1,4 @@
-##How to use dokku storage:
+## How to use dokku storage:
 
 ```
 # on your dokku host
@@ -7,7 +7,7 @@ storage:mount <app> <host-dir:container-dir>, Create a new bind mount
 storage:unmount <app> <host-dir:container-dir>, Remove an existing bind mount
 ```
 
-###example
+### Example
 
 ```bash
 dokku storage:mount app-name /var/lib/dokku/data/storage:/app/storage

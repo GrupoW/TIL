@@ -1,4 +1,4 @@
-##How to delete an application in dokku:
+## How to delete an application in dokku:
 
 ```
 # on your dokku host

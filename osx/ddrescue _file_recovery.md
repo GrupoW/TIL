@@ -1,4 +1,4 @@
-##How to recover files from a damage disk using ddrescue
+## How to recover files from a damage disk using ddrescue
 
 copy the following script and give proper permisions:
 
